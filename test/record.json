@@ -1,0 +1,431 @@
+{
+  "Bioseq-set": {
+    "Bioseq-set_seq-set": {
+      "Seq-entry": {
+        "Seq-entry_seq": {
+          "Bioseq": {
+            "Bioseq_id": {
+              "Seq-id": [
+                {
+                  "Seq-id_genbank": {
+                    "Textseq-id": {
+                      "Textseq-id_accession": "JQ711926",
+                      "Textseq-id_version": "1"
+                    }
+                  }
+                },
+                {
+                  "Seq-id_gi": "387966547"
+                }
+              ]
+            },
+            "Bioseq_descr": {
+              "Seq-descr": {
+                "Seqdesc": [
+                  {
+                    "Seqdesc_title": "Suillus variegatus isolate FFP1068 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region."
+                  },
+                  {
+                    "Seqdesc_source": {
+                      "BioSource": {
+                        "BioSource_genome": {
+                          "value": "genomic",
+                          "$t": "1"
+                        },
+                        "BioSource_org": {
+                          "Org-ref": {
+                            "Org-ref_taxname": "Suillus variegatus",
+                            "Org-ref_db": {
+                              "Dbtag": {
+                                "Dbtag_db": "taxon",
+                                "Dbtag_tag": {
+                                  "Object-id": {
+                                    "Object-id_id": "48592"
+                                  }
+                                }
+                              }
+                            },
+                            "Org-ref_orgname": {
+                              "OrgName": {
+                                "OrgName_name": {
+                                  "OrgName_name_binomial": {
+                                    "BinomialOrgName": {
+                                      "BinomialOrgName_genus": "Suillus",
+                                      "BinomialOrgName_species": "variegatus"
+                                    }
+                                  }
+                                },
+                                "OrgName_mod": {
+                                  "OrgMod": {
+                                    "OrgMod_subtype": {
+                                      "value": "isolate",
+                                      "$t": "17"
+                                    },
+                                    "OrgMod_subname": "FFP1068"
+                                  }
+                                },
+                                "OrgName_lineage": "Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricomycetidae; Boletales; Suillineae; Suillaceae; Suillus",
+                                "OrgName_gcode": "1",
+                                "OrgName_mgcode": "4",
+                                "OrgName_div": "PLN"
+                              }
+                            }
+                          }
+                        },
+                        "BioSource_subtype": {
+                          "SubSource": [
+                            {
+                              "SubSource_subtype": {
+                                "value": "country",
+                                "$t": "23"
+                              },
+                              "SubSource_name": "Canada: BC"
+                            },
+                            {
+                              "SubSource_subtype": {
+                                "value": "isolation-source",
+                                "$t": "28"
+                              },
+                              "SubSource_name": "ectomycorrhiza"
+                            },
+                            {
+                              "SubSource_subtype": {
+                                "value": "lat-lon",
+                                "$t": "29"
+                              },
+                              "SubSource_name": "54.82 N 126.80 W"
+                            },
+                            {
+                              "SubSource_subtype": {
+                                "value": "collection-date",
+                                "$t": "30"
+                              },
+                              "SubSource_name": "2007"
+                            },
+                            {
+                              "SubSource_subtype": {
+                                "value": "collected-by",
+                                "$t": "31"
+                              },
+                              "SubSource_name": "V.Ward"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "Seqdesc_molinfo": {
+                      "MolInfo": {
+                        "MolInfo_biomol": {
+                          "value": "genomic",
+                          "$t": "1"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "Seqdesc_pub": {
+                      "Pubdesc": {
+                        "Pubdesc_pub": {
+                          "Pub-equiv": {
+                            "Pub": {
+                              "Pub_article": {
+                                "Cit-art": {
+                                  "Cit-art_title": {
+                                    "Title": {
+                                      "Title_E": {
+                                        "Title_E_name": "Functional responses of ectomycorrhizal fungal communities to long-term fertilization of lodgepole pine (Pinus contorta Dougl. ex Loud. var. latifolia Engelm.) stands in central British Columbia."
+                                      }
+                                    }
+                                  },
+                                  "Cit-art_authors": {
+                                    "Auth-list": {
+                                      "Auth-list_names": {
+                                        "Auth-list_names_std": {
+                                          "Author": [
+                                            {
+                                              "Author_name": {
+                                                "Person-id": {
+                                                  "Person-id_name": {
+                                                    "Name-std": {
+                                                      "Name-std_last": "Jones",
+                                                      "Name-std_first": "Melanie",
+                                                      "Name-std_initials": "M.D."
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "Author_name": {
+                                                "Person-id": {
+                                                  "Person-id_name": {
+                                                    "Name-std": {
+                                                      "Name-std_last": "Phillips",
+                                                      "Name-std_first": "Lori",
+                                                      "Name-std_initials": "L.A."
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "Author_name": {
+                                                "Person-id": {
+                                                  "Person-id_name": {
+                                                    "Name-std": {
+                                                      "Name-std_last": "Treu",
+                                                      "Name-std_first": "Roland",
+                                                      "Name-std_initials": "R."
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "Author_name": {
+                                                "Person-id": {
+                                                  "Person-id_name": {
+                                                    "Name-std": {
+                                                      "Name-std_last": "Ward",
+                                                      "Name-std_first": "Valerie",
+                                                      "Name-std_initials": "V."
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "Author_name": {
+                                                "Person-id": {
+                                                  "Person-id_name": {
+                                                    "Name-std": {
+                                                      "Name-std_last": "Berch",
+                                                      "Name-std_first": "Shannon",
+                                                      "Name-std_initials": "S.M."
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "Cit-art_from": {
+                                    "Cit-art_from_journal": {
+                                      "Cit-jour": {
+                                        "Cit-jour_title": {
+                                          "Title": {
+                                            "Title_E": {
+                                              "Title_E_iso-jta": "Agric., Ecosyst. Environ., Appl. Soil Ecol."
+                                            }
+                                          }
+                                        },
+                                        "Cit-jour_imp": {
+                                          "Imprint": {
+                                            "Imprint_date": {
+                                              "Date": {
+                                                "Date_std": {
+                                                  "Date-std": {
+                                                    "Date-std_year": "2012"
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            "Imprint_volume": "60",
+                                            "Imprint_pages": "29-40"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "Seqdesc_pub": {
+                      "Pubdesc": {
+                        "Pubdesc_pub": {
+                          "Pub-equiv": {
+                            "Pub": {
+                              "Pub_sub": {
+                                "Cit-sub": {
+                                  "Cit-sub_authors": {
+                                    "Auth-list": {
+                                      "Auth-list_names": {
+                                        "Auth-list_names_std": {
+                                          "Author": {
+                                            "Author_name": {
+                                              "Person-id": {
+                                                "Person-id_name": {
+                                                  "Name-std": {
+                                                    "Name-std_last": "Jones",
+                                                    "Name-std_first": "Melanie",
+                                                    "Name-std_initials": "M.D."
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "Auth-list_affil": {
+                                        "Affil": {
+                                          "Affil_std": {
+                                            "Affil_std_affil": "Athabasca University",
+                                            "Affil_std_div": "Centre for Science",
+                                            "Affil_std_city": "Athabasca",
+                                            "Affil_std_sub": "AB",
+                                            "Affil_std_country": "Canada",
+                                            "Affil_std_street": "1 University Dr.",
+                                            "Affil_std_postal-code": "T9S 3A3"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "Cit-sub_medium": {
+                                    "value": "email"
+                                  },
+                                  "Cit-sub_date": {
+                                    "Date": {
+                                      "Date_std": {
+                                        "Date-std": {
+                                          "Date-std_year": "2012",
+                                          "Date-std_month": "2",
+                                          "Date-std_day": "24"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "Seqdesc_create-date": {
+                      "Date": {
+                        "Date_std": {
+                          "Date-std": {
+                            "Date-std_year": "2012",
+                            "Date-std_month": "5",
+                            "Date-std_day": "26"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "Seqdesc_update-date": {
+                      "Date": {
+                        "Date_std": {
+                          "Date-std": {
+                            "Date-std_year": "2013",
+                            "Date-std_month": "8",
+                            "Date-std_day": "28"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "Bioseq_inst": {
+              "Seq-inst": {
+                "Seq-inst_repr": {
+                  "value": "raw"
+                },
+                "Seq-inst_mol": {
+                  "value": "dna"
+                },
+                "Seq-inst_length": "862",
+                "Seq-inst_strand": {
+                  "value": "ds"
+                },
+                "Seq-inst_seq-data": {
+                  "Seq-data": {
+                    "Seq-data_ncbi4na": {
+                      "NCBI4na": "822441824428824444142244241244218228482428414114284182111288448248881414411481111482481121144888224814484112284244114418218811141118118282414442288844111441414144488481428442481142124842124222828882824122844482288184442424444241222424828821811422228824848141114828184118488888122182182412824241288281441412424188288841412111148818812112888214211844182828844282824218241841141124214241182424181848118484118842141828121484118218241182888411242122884242881824484882241841421842284888414248218811188282112222828241888428824141444142884418148441442842244141228488888821441282444282282841118481884428842448241288824128484218412114422888442484181184182422428242241148421241124118448282484228281182148241F422888824114424828822821884124888412282111821448144128122242841128811421818211811424414411114111281121144188222281481128424148411224441111428211188884118284424482288"
+                    }
+                  }
+                }
+              }
+            },
+            "Bioseq_annot": {
+              "Seq-annot": {
+                "Seq-annot_data": {
+                  "Seq-annot_data_ftable": {
+                    "Seq-feat": {
+                      "Seq-feat_data": {
+                        "SeqFeatData": {
+                          "SeqFeatData_rna": {
+                            "RNA-ref": {
+                              "RNA-ref_type": {
+                                "value": "miscRNA"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "Seq-feat_partial": {
+                        "value": "true"
+                      },
+                      "Seq-feat_comment": "may contain 18S ribosomal RNA, internal transcribed spacer 1, 5.8S ribosomal RNA, internal transcribed spacer 2, and 28S ribosomal RNA",
+                      "Seq-feat_location": {
+                        "Seq-loc": {
+                          "Seq-loc_int": {
+                            "Seq-interval": {
+                              "Seq-interval_from": "0",
+                              "Seq-interval_to": "861",
+                              "Seq-interval_strand": {
+                                "Na-strand": {
+                                  "value": "plus"
+                                }
+                              },
+                              "Seq-interval_id": {
+                                "Seq-id": {
+                                  "Seq-id_gi": "387966547"
+                                }
+                              },
+                              "Seq-interval_fuzz-from": {
+                                "Int-fuzz": {
+                                  "Int-fuzz_lim": {
+                                    "value": "lt"
+                                  }
+                                }
+                              },
+                              "Seq-interval_fuzz-to": {
+                                "Int-fuzz": {
+                                  "Int-fuzz_lim": {
+                                    "value": "gt"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
