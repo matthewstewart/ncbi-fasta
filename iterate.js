@@ -19,22 +19,22 @@ async function iterateObj(key, obj){
 					console.log('found');
 					console.log(childObject);
 					return childObject;
-			
+
 					//console.log(obj[childObjectKey]);
 					//console.log(childObject);
-					
+
 				} else {
-					await iterateObj(key, childObject);
+					return await iterateObj(key, childObject);
 				}
 			}
 		} else if(isArray(obj)){
 			//console.log('Array');
 			for(let i = 0; i < obj.length; i++){
 				let childObject = obj[i];
-				await iterateObj(key, childObject);	
+				return await iterateObj(key, childObject);
 			}
-		} 
-	
+		}
+
 }
 
 function isArray(a){
