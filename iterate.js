@@ -1,46 +1,30 @@
 const ncbiRecord = require('./test/record.json');
 
-iterateObj('Textseq-id_version', ncbiRecord)
-.then((result) => {
-	console.log(result);
-});
-
+// const keyToBeFound = 'Textseq-id_version';
+const keyToBeFound = 'BioSource_subtype';
+iterateObj(keyToBeFound, ncbiRecord).then(result => console.log(result));
 
 async function iterateObj(key, obj){
+	let foundObject;
+	const isArray = o => (!!o) && (o.constructor === Array);
+	const isObject = o => (!!o) && (o.constructor === Object);
+	const needsIterating = o => isArray(o) || isObject(o);
 
-		if(isObject(obj)){
-			//console.log('Object');
-			let childObjectKeys = Object.keys(obj);
-			//console.log(childObjectKeys);
-			for(let i = 0; i < childObjectKeys.length; i++){
-				let childObjectKey = childObjectKeys[i];
-				let childObject = obj[childObjectKey];
-				if(key === childObjectKey){
-					console.log('found');
-					console.log(childObject);
-					return childObject;
-
-					//console.log(obj[childObjectKey]);
-					//console.log(childObject);
-
+	await (async function doIterate(o) {
+		let childObject;
+		for (let childObjectKey in o) {
+			if (foundObject) return;
+			childObject = o[childObjectKey];
+			if (needsIterating(childObject)) {
+				if (childObjectKey === key) {
+					// console.log(childObject);
+					foundObject = childObject;
 				} else {
-					return await iterateObj(key, childObject);
+					await doIterate(childObject);
 				}
 			}
-		} else if(isArray(obj)){
-			//console.log('Array');
-			for(let i = 0; i < obj.length; i++){
-				let childObject = obj[i];
-				return await iterateObj(key, childObject);
-			}
 		}
+	})(obj);
 
-}
-
-function isArray(a){
-	return (!!a) && (a.constructor === Array);
-}
-
-function isObject(a){
-	return (!!a) && (a.constructor === Object);
+	return (async () => await foundObject)();
 }
