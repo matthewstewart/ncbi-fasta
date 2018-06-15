@@ -17,7 +17,6 @@ async function iterateObj(key, obj){
 			childObject = o[childObjectKey];
 			if (needsIterating(childObject)) {
 				if (childObjectKey === key) {
-					// console.log(childObject);
 					foundObject = childObject;
 				} else {
 					await doIterate(childObject);
