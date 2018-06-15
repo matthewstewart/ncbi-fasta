@@ -1,0 +1,712 @@
+[
+  {
+    "accessionNo": "JQ711926",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP1068 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "FJ475559",
+    "version": "1",
+    "description": "Uncultured Suillaceae clone AhedenA42 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence ",
+    "country": "Sweden"
+  },
+  {
+    "accessionNo": "FN565360",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.17 ",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565362",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.13 ",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565363",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.17",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "JQ753773",
+    "version": "1",
+    "description": "Suillus variegatus 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCCAG"
+  },
+  {
+    "accessionNo": "JQ711888",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP30 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711867",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP712 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ177144",
+    "version": "1",
+    "description": "Uncultured Suillus isolate SE65 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGTTCGTAGGTGAACCTGCGGAAGGATCATTAAGAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCT",
+    "country": "United Kingdom: Scotland, Culbin forest"
+  },
+  {
+    "accessionNo": "FN565367",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.9 ",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565370",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.10",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FJ660476",
+    "version": "1",
+    "description": "Uncultured ectomycorrhizal fungus clone PT_09 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GCGTGCTAATSTCCNGGGGCGMGGGCSGGTGCTRGASTCCCSGGGCGCACGCCCTCTTTCTCGACCTGGGTCCTTATGGG",
+    "country": "USA: Montana, Gallatin National Forest"
+  },
+  {
+    "accessionNo": "AY898622",
+    "version": "1",
+    "description": "Suillus variegatus isolate CCMA-58 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTGAGCATGTGCACGCCCTCTTTCTCGAC",
+    "country": "Spain: Pedraforca (Barcelona)"
+  },
+  {
+    "accessionNo": "AM086444",
+    "version": "1",
+    "description": "Suillus variegatus 18S rRNA gene, 5.8S rRNA gene, 28S rRNA gene, ITS1 and ITS2, isolate P17 F",
+    "sequence": "ATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCCAGGTCCTT",
+    "country": "United Kingdom:Sctoland"
+  },
+  {
+    "accessionNo": "AJ272418",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate AT86",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATTTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG",
+    "country": ""
+  },
+  {
+    "accessionNo": "AJ272405",
+    "version": "1",
+    "description": "Suillus sp. EP06 DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate EP06",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG"
+  },
+  {
+    "accessionNo": "KM248962",
+    "version": "1",
+    "description": "Suillus tomentosus isolate 2482 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CGTGAACGCCCTCTTTCTCGACCTGGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTAGAAAG",
+    "country": ""
+  },
+  {
+    "accessionNo": "FN678897",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP463",
+    "sequence": "GCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTAGAAAGTCT",
+    "country": "Czech Republic:Bohemian Switzerland National Park"
+  },
+  {
+    "accessionNo": "FN678896",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP301",
+    "sequence": "GCCTTCGGAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGG",
+    "country": "Czech Republic:Bohemian Switzerland National Park"
+  },
+  {
+    "accessionNo": "FJ237193",
+    "version": "1",
+    "description": "Uncultured fungus clone MBP22-22 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CTCGAGGGCCTTCGGAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATG",
+    "country": "Austria: Rotmoosferner glacier foreland"
+  },
+  {
+    "accessionNo": "AJ272406",
+    "version": "1",
+    "description": "Suillus sp. EP09 DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate EP09 ",
+    "country": ""
+  },
+  {
+    "accessionNo": "AJ272421",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate S194",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG",
+    "country": ""
+  },
+  {
+    "accessionNo": "KX230609",
+    "version": "1",
+    "description": "Suillus tomentosus isolate CO63 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTTAAGCACGAT",
+    "country": "USA: Colorado, Boulder Co., Peak to Peak Highway and South St. Vrain River"
+  },
+  {
+    "accessionNo": "KX213830",
+    "version": "1",
+    "description": "Suillus fuscotomentosus voucher UC2023466 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "CATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTC",
+    "country": "USA: California, San Mateo Co., San Bruno, Skyline City College, on campus and ridge above campus"
+  },
+  {
+    "accessionNo": "FN565369",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.8",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565365",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.12",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565364",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.8",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "KX230608",
+    "version": "1",
+    "description": "Suillus tomentosus isolate CO61 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "TGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACG",
+    "country": "USA: Colorado, Boulder Co., Peak to Peak Highway and South St. Vrain River"
+  },
+  {
+    "accessionNo": "KX213694",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC034 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT",
+    "country": "USA: Montana"
+  },
+  {
+    "accessionNo": "KX213693",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC033 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT",
+    "country": "USA: Montana"
+  },
+  {
+    "accessionNo": "JF300822",
+    "version": "1",
+    "description": "Uncultured fungus clone N263 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CGCCTTCTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAA",
+    "country": ""
+  },
+  {
+    "accessionNo": "JF300818",
+    "version": "1",
+    "description": "Uncultured fungus clone N239 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACGTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": ""
+  },
+  {
+    "accessionNo": "KM008627",
+    "version": "1",
+    "description": "Uncultured Suillus clone BJP0029T internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTC",
+    "country": "Canada: British Columbia"
+  },
+  {
+    "accessionNo": "FJ553762",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4G14 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553438",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3G06 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "JQ712007",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP1062 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGT",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711970",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP107 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGAC",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711950",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP444 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711932",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP1112 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CTCGAGGGCCGATGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATG",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "FN678898",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP139",
+    "sequence": "AGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCG",
+    "country": "Czech Republic:Bohemian Switzerland National Park"
+  },
+  {
+    "accessionNo": "JQ712005",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP996 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGAC",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711994",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP790 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711988",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP568 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCC",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711788",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP352 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAG",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "HQ703027",
+    "version": "1",
+    "description": "Uncultured Suillus clone 4j5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence",
+    "sequence": "GTAGTGACCTGCGGAGGTCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCAT",
+    "country": ""
+  },
+  {
+    "accessionNo": "KX213696",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC036 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT",
+    "country": "USA: Montana"
+  },
+  {
+    "accessionNo": "JQ711983",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP420 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAAAGTCGTAACAAG",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711964",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP953 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711948",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP334 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGAC",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711881",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP848 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GTTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGC",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "FN565371",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.3",
+    "sequence": "CTTGGTCATTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTC",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FJ845441",
+    "version": "1",
+    "description": "Suillus tomentosus voucher SMI202 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TTAGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTA"
+  },
+  {
+    "accessionNo": "EF458017",
+    "version": "1",
+    "description": "Suillus tomentosus isolate Li3-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCAC",
+    "country": "USA: Jefferson County, Oregon"
+  },
+  {
+    "accessionNo": "AY822745",
+    "version": "1",
+    "description": "Uncultured ectomycorrhizal fungus isolate RBDEM_013 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence",
+    "sequence": "CAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTTGGAAAGGAGAGAGGGTTGTA",
+    "country": ""
+  },
+  {
+    "accessionNo": "FJ552980",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P1O22 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FN565372",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 3.11",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "AM086446",
+    "version": "1",
+    "description": "Suillus variegatus 18S rRNA gene, 5.8S rRNA gene, 28S rRNA gene, ITS1 and ITS2, isolate P22 F",
+    "sequence": "CTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTAT",
+    "country": "United Kingdom:Sctoland"
+  },
+  {
+    "accessionNo": "JQ712003",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP985 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "AY097052",
+    "version": "1",
+    "description": "Uncultured cf. Suillus 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGNAGAGAGGGTTGTAGCTGGCTTAAGCATGTGC",
+    "country": "Sweden"
+  },
+  {
+    "accessionNo": "JQ711966",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FFP1150 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AAGAAATNANCNCGAGGGNCGAATGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTNTTTCTCGACCT",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711938",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP1168 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGGGCCTTTGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCG",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "JQ711874",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP770 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "AF483655",
+    "version": "1",
+    "description": "Mycorrhizal root tip MC1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCT"
+  },
+  {
+    "accessionNo": "AJ272419",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate AT87",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG",
+    "country": ""
+  },
+  {
+    "accessionNo": "JN858082",
+    "version": "1",
+    "description": "Suillus tomentosus isolate DISP12 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCG",
+    "country": "USA"
+  },
+  {
+    "accessionNo": "FN565354",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.3",
+    "sequence": "TCGTAAGAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGG",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "AM109899",
+    "version": "1",
+    "description": "Vouchered mycorrhizae (Basidiomycota) 18S rRNA gene (partial), 5.8S rRNA gene, 28S rRNA gene (partial), ITS1 and ITS2, isolate DRT38",
+    "sequence": "AAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAG",
+    "country": "United Kingdom:Scotland, OS: NH 985 621"
+  },
+  {
+    "accessionNo": "FN565351",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.1",
+    "sequence": "AAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAG",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN679001",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP140",
+    "sequence": "GTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGC",
+    "country": "Czech Republic:Bohemian Switzerland National Park"
+  },
+  {
+    "accessionNo": "FJ553898",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4N17 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGATGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553826",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4K01 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553761",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4G13 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553312",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2P14 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGATGCATTCAACGAGCCTATCCTGGACAGAGATGTCTGGGTAATCTGC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553191",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2J11 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "JX907819",
+    "version": "1",
+    "description": "Suillus variegatus isolate T1PK4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence",
+    "sequence": "CGGAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCC",
+    "country": "Latvia"
+  },
+  {
+    "accessionNo": "JQ711821",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP638 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GTAGGTGAACCTGCGGAAGGATCATTAAAGAAATNATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "FN565361",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.2",
+    "sequence": "AAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565358",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.14",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565353",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.21",
+    "sequence": "GTCGTAATAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAG",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "KJ769308",
+    "version": "1",
+    "description": "Uncultured Suillus clone 250 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TCTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATGATA",
+    "country": "Russia"
+  },
+  {
+    "accessionNo": "KC412549",
+    "version": "1",
+    "description": "Uncultured Suillus clone SJ-GS158 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "AAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTA",
+    "country": ""
+  },
+  {
+    "accessionNo": "JQ711974",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP234 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA",
+    "country": "Canada: BC"
+  },
+  {
+    "accessionNo": "FN565355",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.20",
+    "sequence": "GAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565349",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.19",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FJ553603",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3O12 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTGCACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553537",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3L06 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCTGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FJ553157",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2H19 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACAGAGCCAGCGAGTTTTTTTTCCTTGTCCGGAAGGACTGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "EF619770",
+    "version": "1",
+    "description": "Uncultured Suillus clone 1S3.18.S05 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCAACGTGCACGCCCTCTTTCT",
+    "country": "USA: Orange Co., NC"
+  },
+  {
+    "accessionNo": "U74614",
+    "version": "1",
+    "description": "Suillus tomentosus internal transcribed spacer from the nuclear ribosomal repeat, partial sequence",
+    "sequence": "TTCCGTAGGTGAACCTGCSGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGC"
+  },
+  {
+    "accessionNo": "FN565368",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.18",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FJ554101",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P5I12 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC",
+    "country": "Canada"
+  },
+  {
+    "accessionNo": "FN565352",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.12",
+    "sequence": "TGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FJ197216",
+    "version": "1",
+    "description": "Uncultured Suillus type OTU: RT50-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGC",
+    "country": "USA: Point Reyes National Seashore, Marin County, CA"
+  },
+  {
+    "accessionNo": "KJ769307",
+    "version": "1",
+    "description": "Uncultured Suillus clone 224 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CAAGGTTTCNGTAGGTGACCTGCGGAAGGGATCATTAAAGAAATGATAATCGAGGGCCCATGGAAAGGAGAGAGGGTTGT",
+    "country": "Russia"
+  },
+  {
+    "accessionNo": "FN565357",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.1",
+    "sequence": "GTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAG",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN565356",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.16",
+    "sequence": "TCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGG",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "FN556986",
+    "version": "1",
+    "description": "Fungal sp. JH35 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), isolate JH35 rDNA",
+    "sequence": "GAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCG",
+    "country": "Finland:Hyytiaelae Forest research station site"
+  },
+  {
+    "accessionNo": "DQ988251",
+    "version": "1",
+    "description": "Suillus tomentosus isolate BCTEM4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TTCCGTAGGTGAACCTGCCGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGC"
+  },
+  {
+    "accessionNo": "AJ971401",
+    "version": "1",
+    "description": "Suillus variegatus 5.8S rRNA gene, isolate p10",
+    "sequence": "TGAACCTGCGGAANGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATG",
+    "country": "United Kingdom:Scotland"
+  },
+  {
+    "accessionNo": "FN565350",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.6",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA",
+    "country": "United Kingdom:Scotland, Grantown on Spey - Anagach Woods"
+  },
+  {
+    "accessionNo": "KX289970",
+    "version": "1",
+    "description": "Uncultured fungus clone L15 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TGACTGCGGAGACATTAAGAATAATCTCGAGGGCCTTCGGAAGGATAGAGGGTTGTAGCTGGCTTAGGCATGTGCACGCC",
+    "country": "Austria"
+  },
+  {
+    "accessionNo": "FN679002",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP388",
+    "sequence": "TCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTA",
+    "country": "Czech Republic:Bohemian Switzerland National Park"
+  },
+  {
+    "accessionNo": "KX260629",
+    "version": "1",
+    "description": "Suillus tomentosus voucher DOB1732 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "ATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCG",
+    "country": "Canada: Alberta, Castle Rock area"
+  }
+]

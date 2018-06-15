@@ -1,0 +1,615 @@
+[
+  {
+    "accessionNo": "JQ711926",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP1068 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAA"
+  },
+  {
+    "accessionNo": "FJ475559",
+    "version": "1",
+    "description": "Uncultured Suillaceae clone AhedenA42 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence "
+  },
+  {
+    "accessionNo": "FN565360",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.17 "
+  },
+  {
+    "accessionNo": "FN565362",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.13 "
+  },
+  {
+    "accessionNo": "FN565363",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.17",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "JQ753773",
+    "version": "1",
+    "description": "Suillus variegatus 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCCAG"
+  },
+  {
+    "accessionNo": "JQ711888",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP30 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAA"
+  },
+  {
+    "accessionNo": "JQ711867",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP712 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA"
+  },
+  {
+    "accessionNo": "JQ177144",
+    "version": "1",
+    "description": "Uncultured Suillus isolate SE65 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGTTCGTAGGTGAACCTGCGGAAGGATCATTAAGAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCT"
+  },
+  {
+    "accessionNo": "FN565367",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.9 "
+  },
+  {
+    "accessionNo": "FN565370",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.10",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "FJ660476",
+    "version": "1",
+    "description": "Uncultured ectomycorrhizal fungus clone PT_09 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GCGTGCTAATSTCCNGGGGCGMGGGCSGGTGCTRGASTCCCSGGGCGCACGCCCTCTTTCTCGACCTGGGTCCTTATGGG"
+  },
+  {
+    "accessionNo": "AY898622",
+    "version": "1",
+    "description": "Suillus variegatus isolate CCMA-58 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTGAGCATGTGCACGCCCTCTTTCTCGAC"
+  },
+  {
+    "accessionNo": "AM086444",
+    "version": "1",
+    "description": "Suillus variegatus 18S rRNA gene, 5.8S rRNA gene, 28S rRNA gene, ITS1 and ITS2, isolate P17 F",
+    "sequence": "ATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCCAGGTCCTT"
+  },
+  {
+    "accessionNo": "AJ272418",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate AT86",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATTTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG"
+  },
+  {
+    "accessionNo": "AJ272405",
+    "version": "1",
+    "description": "Suillus sp. EP06 DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate EP06",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG"
+  },
+  {
+    "accessionNo": "KM248962",
+    "version": "1",
+    "description": "Suillus tomentosus isolate 2482 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CGTGAACGCCCTCTTTCTCGACCTGGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTAGAAAG"
+  },
+  {
+    "accessionNo": "FN678897",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP463",
+    "sequence": "GCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTAGAAAGTCT"
+  },
+  {
+    "accessionNo": "FN678896",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP301",
+    "sequence": "GCCTTCGGAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGG"
+  },
+  {
+    "accessionNo": "FJ237193",
+    "version": "1",
+    "description": "Uncultured fungus clone MBP22-22 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CTCGAGGGCCTTCGGAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATG"
+  },
+  {
+    "accessionNo": "AJ272406",
+    "version": "1",
+    "description": "Suillus sp. EP09 DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate EP09 "
+  },
+  {
+    "accessionNo": "AJ272421",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate S194",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG"
+  },
+  {
+    "accessionNo": "KX230609",
+    "version": "1",
+    "description": "Suillus tomentosus isolate CO63 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTTAAGCACGAT"
+  },
+  {
+    "accessionNo": "KX213830",
+    "version": "1",
+    "description": "Suillus fuscotomentosus voucher UC2023466 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "CATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTC"
+  },
+  {
+    "accessionNo": "FN565369",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.8",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "FN565365",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.12",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "FN565364",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.8",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "KX230608",
+    "version": "1",
+    "description": "Suillus tomentosus isolate CO61 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "TGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACG"
+  },
+  {
+    "accessionNo": "KX213694",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC034 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT"
+  },
+  {
+    "accessionNo": "KX213693",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC033 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT"
+  },
+  {
+    "accessionNo": "JF300822",
+    "version": "1",
+    "description": "Uncultured fungus clone N263 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CGCCTTCTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAA"
+  },
+  {
+    "accessionNo": "JF300818",
+    "version": "1",
+    "description": "Uncultured fungus clone N239 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACGTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "KM008627",
+    "version": "1",
+    "description": "Uncultured Suillus clone BJP0029T internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTC"
+  },
+  {
+    "accessionNo": "FJ553762",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4G14 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553438",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3G06 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "JQ712007",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP1062 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGT"
+  },
+  {
+    "accessionNo": "JQ711970",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP107 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGAC"
+  },
+  {
+    "accessionNo": "JQ711950",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP444 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA"
+  },
+  {
+    "accessionNo": "JQ711932",
+    "version": "1",
+    "description": "Suillus variegatus isolate FFP1112 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "CTCGAGGGCCGATGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATG"
+  },
+  {
+    "accessionNo": "FN678898",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP139",
+    "sequence": "AGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCG"
+  },
+  {
+    "accessionNo": "JQ712005",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP996 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGAC"
+  },
+  {
+    "accessionNo": "JQ711994",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP790 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGA"
+  },
+  {
+    "accessionNo": "JQ711988",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP568 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCC"
+  },
+  {
+    "accessionNo": "JQ711788",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP352 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TAGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAG"
+  },
+  {
+    "accessionNo": "HQ703027",
+    "version": "1",
+    "description": "Uncultured Suillus clone 4j5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence",
+    "sequence": "GTAGTGACCTGCGGAGGTCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCAT"
+  },
+  {
+    "accessionNo": "KX213696",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FC036 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "AGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCT"
+  },
+  {
+    "accessionNo": "JQ711983",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP420 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTAAAAGTCGTAACAAG"
+  },
+  {
+    "accessionNo": "JQ711964",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP953 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAA"
+  },
+  {
+    "accessionNo": "JQ711948",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP334 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGAC"
+  },
+  {
+    "accessionNo": "JQ711881",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP848 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GTTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGC"
+  },
+  {
+    "accessionNo": "FN565371",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.3",
+    "sequence": "CTTGGTCATTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTC"
+  },
+  {
+    "accessionNo": "FJ845441",
+    "version": "1",
+    "description": "Suillus tomentosus voucher SMI202 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TTAGTGAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTA"
+  },
+  {
+    "accessionNo": "EF458017",
+    "version": "1",
+    "description": "Suillus tomentosus isolate Li3-2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCAC"
+  },
+  {
+    "accessionNo": "AY822745",
+    "version": "1",
+    "description": "Uncultured ectomycorrhizal fungus isolate RBDEM_013 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence",
+    "sequence": "CAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTTGGAAAGGAGAGAGGGTTGTA"
+  },
+  {
+    "accessionNo": "FJ552980",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P1O22 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FN565372",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 3.11",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "AM086446",
+    "version": "1",
+    "description": "Suillus variegatus 18S rRNA gene, 5.8S rRNA gene, 28S rRNA gene, ITS1 and ITS2, isolate P22 F",
+    "sequence": "CTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTAT"
+  },
+  {
+    "accessionNo": "JQ712003",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP985 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA"
+  },
+  {
+    "accessionNo": "AY097052",
+    "version": "1",
+    "description": "Uncultured cf. Suillus 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGNAGAGAGGGTTGTAGCTGGCTTAAGCATGTGC"
+  },
+  {
+    "accessionNo": "JQ711966",
+    "version": "1",
+    "description": "Suillus tomentosus isolate FFP1150 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AAGAAATNANCNCGAGGGNCGAATGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTNTTTCTCGACCT"
+  },
+  {
+    "accessionNo": "JQ711938",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP1168 internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "AGGGCCTTTGGAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCG"
+  },
+  {
+    "accessionNo": "JQ711874",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP770 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GAGGTCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGA"
+  },
+  {
+    "accessionNo": "AF483655",
+    "version": "1",
+    "description": "Mycorrhizal root tip MC1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCT"
+  },
+  {
+    "accessionNo": "AJ272419",
+    "version": "1",
+    "description": "Suillus variegatus DNA for partial 18S RNA gene, ITS1, 5.8S gene, ITS2 and partial 28S RNA gene, isolate AT87",
+    "sequence": "AAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAG"
+  },
+  {
+    "accessionNo": "JN858082",
+    "version": "1",
+    "description": "Suillus tomentosus isolate DISP12 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "GGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCG"
+  },
+  {
+    "accessionNo": "FN565354",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.3",
+    "sequence": "TCGTAAGAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGG"
+  },
+  {
+    "accessionNo": "AM109899",
+    "version": "1",
+    "description": "Vouchered mycorrhizae (Basidiomycota) 18S rRNA gene (partial), 5.8S rRNA gene, 28S rRNA gene (partial), ITS1 and ITS2, isolate DRT38",
+    "sequence": "AAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAG"
+  },
+  {
+    "accessionNo": "FN565351",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.1",
+    "sequence": "AAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAG"
+  },
+  {
+    "accessionNo": "FN679001",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP140",
+    "sequence": "GTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGC"
+  },
+  {
+    "accessionNo": "FJ553898",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4N17 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGATGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553826",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4K01 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553761",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P4G13 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553312",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2P14 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGATGCATTCAACGAGCCTATCCTGGACAGAGATGTCTGGGTAATCTGC"
+  },
+  {
+    "accessionNo": "FJ553191",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2J11 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "JX907819",
+    "version": "1",
+    "description": "Suillus variegatus isolate T1PK4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence",
+    "sequence": "CGGAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCC"
+  },
+  {
+    "accessionNo": "JQ711821",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP638 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "GTAGGTGAACCTGCGGAAGGATCATTAAAGAAATNATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAA"
+  },
+  {
+    "accessionNo": "FN565361",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.2",
+    "sequence": "AAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGA"
+  },
+  {
+    "accessionNo": "FN565358",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.14",
+    "sequence": "CTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCT"
+  },
+  {
+    "accessionNo": "FN565353",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.21",
+    "sequence": "GTCGTAATAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAG"
+  },
+  {
+    "accessionNo": "KJ769308",
+    "version": "1",
+    "description": "Uncultured Suillus clone 250 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TCTTGGTCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATGATA"
+  },
+  {
+    "accessionNo": "KC412549",
+    "version": "1",
+    "description": "Uncultured Suillus clone SJ-GS158 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "AAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCGTCTTCATAAGCCCCTTCGTGTA"
+  },
+  {
+    "accessionNo": "JQ711974",
+    "version": "1",
+    "description": "Suillus sp. RT-2012 isolate FFP234 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, region",
+    "sequence": "TCTCCGGATCGGCTTCGGGGAGCCGGCGACGGCATCCTGTCGCTGAGAAGCTGATCAAACTTGGTCGTTTAGAGGAAGTA"
+  },
+  {
+    "accessionNo": "FN565355",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.20",
+    "sequence": "GAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAA"
+  },
+  {
+    "accessionNo": "FN565349",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.19",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA"
+  },
+  {
+    "accessionNo": "FJ553603",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3O12 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTGCACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553537",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P3L06 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCTGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FJ553157",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P2H19 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACAGAGCCAGCGAGTTTTTTTTCCTTGTCCGGAAGGACTGGGTAATC"
+  },
+  {
+    "accessionNo": "EF619770",
+    "version": "1",
+    "description": "Uncultured Suillus clone 1S3.18.S05 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCAACGTGCACGCCCTCTTTCT"
+  },
+  {
+    "accessionNo": "U74614",
+    "version": "1",
+    "description": "Suillus tomentosus internal transcribed spacer from the nuclear ribosomal repeat, partial sequence",
+    "sequence": "TTCCGTAGGTGAACCTGCSGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGC"
+  },
+  {
+    "accessionNo": "FN565368",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.18",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA"
+  },
+  {
+    "accessionNo": "FJ554101",
+    "version": "1",
+    "description": "Uncultured Suillus clone LTSP_EUKA_P5I12 18S ribosomal RNA, 18S-25/28S ribosomal RNA intergenic spacer, partial sequence",
+    "sequence": "TTAGATGTTCTGGGCCGCACGCGCGCTACACTGACGGAGCCAGCGAGTTTTTTTTCCTTGGCCGGAAGGTCCGGGTAATC"
+  },
+  {
+    "accessionNo": "FN565352",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 7.12",
+    "sequence": "TGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA"
+  },
+  {
+    "accessionNo": "FJ197216",
+    "version": "1",
+    "description": "Uncultured Suillus type OTU: RT50-3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "ACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGC"
+  },
+  {
+    "accessionNo": "KJ769307",
+    "version": "1",
+    "description": "Uncultured Suillus clone 224 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "CAAGGTTTCNGTAGGTGACCTGCGGAAGGGATCATTAAAGAAATGATAATCGAGGGCCCATGGAAAGGAGAGAGGGTTGT"
+  },
+  {
+    "accessionNo": "FN565357",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 2.1",
+    "sequence": "GTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAG"
+  },
+  {
+    "accessionNo": "FN565356",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.16",
+    "sequence": "TCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGG"
+  },
+  {
+    "accessionNo": "FN556986",
+    "version": "1",
+    "description": "Fungal sp. JH35 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), isolate JH35 rDNA",
+    "sequence": "GAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTATGGGCGCGGGGCGACCCGCG"
+  },
+  {
+    "accessionNo": "DQ988251",
+    "version": "1",
+    "description": "Suillus tomentosus isolate BCTEM4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TTCCGTAGGTGAACCTGCCGAAGGATCATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGC"
+  },
+  {
+    "accessionNo": "AJ971401",
+    "version": "1",
+    "description": "Suillus variegatus 5.8S rRNA gene, isolate p10",
+    "sequence": "TGAACCTGCGGAANGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATG"
+  },
+  {
+    "accessionNo": "FN565350",
+    "version": "1",
+    "description": "Uncultured Suillus 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), clone 6.6",
+    "sequence": "AGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTAAAGAAATAATCTCGAGGGCCTTCGGAAAGGAGAGA"
+  },
+  {
+    "accessionNo": "KX289970",
+    "version": "1",
+    "description": "Uncultured fungus clone L15 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence",
+    "sequence": "TGACTGCGGAGACATTAAGAATAATCTCGAGGGCCTTCGGAAGGATAGAGGGTTGTAGCTGGCTTAGGCATGTGCACGCC"
+  },
+  {
+    "accessionNo": "FN679002",
+    "version": "1",
+    "description": "Uncultured Suillus genomic DNA containing ITS1, 5.8S rRNA gene, ITS2, isolate BP388",
+    "sequence": "TCTCGAGGGCCTTCGGAAAGGAGAGAGGGTTGTAGCTGGCTTAAGCATGTGCACGCCCTCTTTCTCGACCTAGGTCCTTA"
+  },
+  {
+    "accessionNo": "KX260629",
+    "version": "1",
+    "description": "Suillus tomentosus voucher DOB1732 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence",
+    "sequence": "ATTAAAGAAATAATCTCGAGGGCCGATGGAAAGGAGAGAGGGTTGTAGCTGGCGTAAGCACGTGCACGCCCTCTTTCTCG"
+  }
+]

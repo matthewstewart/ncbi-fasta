@@ -2,6 +2,9 @@ const fs = require('fs');
 const axios = require('axios');
 const parser = require('xml2json');
 
+let objectCount = 0;
+let searchResult;
+
 // start with clear
 console.clear();
 
@@ -23,7 +26,9 @@ initialize();
 function initialize() {
 	createDestFileFromNcbi(srcFilePath, destFilePath)
 	.then(result => {
-		fs.writeFileSync(destFilePath, JSON.stringify(result, null, '  '));
+		//console.log('Result');
+		//console.log(result);
+		fs.writeFileSync(destFilePath, result);
 		console.log('complete');
 	});
 }
@@ -37,14 +42,29 @@ async function createDestFileFromNcbi(sourceFilePath, destinationFilePath) {
 		const sourceFile = await readSourceFile(sourceFilePath);
 
 		// convert to json
-		let sourceFileJson = await fastaToJson(sourceFile);
+		let sourceFileJsonArray = await fastaToJson(sourceFile);
 
-		// fetch ncbi data
-		let ncbiData = await fetchNcbiData(sourceFileJson); 
-
-		let ncbiDataObj = await convertNcbiData(ncbiData);
-
-		return ncbiDataObj;
+		let mergedRecordArray = [];
+		for(let i = 0; i < sourceFileJsonArray.length; i++){
+			let sourceRecord = sourceFileJsonArray[i];
+			let ncbiData = await fetchNcbiData(sourceRecord, (i + 1), sourceFileJsonArray.length);
+			let ncbiDataObj = await convertNcbiData(ncbiData);
+			let mergedRecord = sourceRecord;
+			mergedRecord['country'] = ncbiDataObj.country;
+			//console.log('record ' + i);
+			//console.log(mergedRecord);
+			mergedRecordArray.push(mergedRecord);
+		}
+		let fastaResultString = "";
+		for(let i = 0; i < mergedRecordArray.length; i++){
+			let mergedRecord = mergedRecordArray[i];
+			let hasCountry = mergedRecord.country && mergedRecord.country.length > 0;
+			if(!hasCountry){ mergedRecord['country'] = "" }
+			let hasSequence = mergedRecord.sequence && mergedRecord.sequence.length > 0;
+			if(!hasSequence){ mergedRecord['sequence'] = "" }
+			fastaResultString += `>${mergedRecord.accessionNo}.${mergedRecord.version} ${mergedRecord.description} ${mergedRecord.country}\n${mergedRecord.sequence}\n`;
+		}
+		return fastaResultString;
 	} catch(error) {
 		return error;
 	}	
@@ -102,8 +122,14 @@ async function fastaToJson(fasta) {
 			let fastaRecordPartial = fastaRecordArray.join(' ');
 
 			// description and sequence are now separated by a '\n' character
-			fastaRecordObj.description = fastaRecordPartial.split('\n')[0];
-			fastaRecordObj.sequence = fastaRecordPartial.split('\n')[1];
+			let split2Array = fastaRecordPartial.split('\n');
+			fastaRecordObj.description = split2Array[0];
+
+			// remove first item
+			split2Array.shift();
+
+			// join remainder of sequence
+			fastaRecordObj.sequence = split2Array.join('\n');
 
 			// if the accessionNo and version are valid, push to result array
 			if(fastaRecordObj.accessionNo && fastaRecordObj.version){
@@ -118,10 +144,13 @@ async function fastaToJson(fasta) {
 	}	
 }
 
-async function fetchNcbiData(sourceFileJson){
+async function fetchNcbiData(sourceRecord, recordNo, recordMaxNo){
 	try {
-		let accession = `${sourceFileJson[0].accessionNo}.${sourceFileJson[0].version}`;
+		console.clear();
+		let accession = `${sourceRecord.accessionNo}.${sourceRecord.version}`;
 		let url = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&id=${accession}&rettype=json`;
+		console.log(`Record ${recordNo}/${recordMaxNo}:`);
+		console.log(`fetching ${url}`);
 		let responseXml = await axios.get(url);
 		let responseXmlData = responseXml.data;
 		let responseJsonObj = parser.toJson(responseXmlData, { object: true });
@@ -133,124 +162,40 @@ async function fetchNcbiData(sourceFileJson){
 
 async function convertNcbiData(ncbiData){
 	try {
-		//let accession = await getValueByKeyFromObject('Textseq-id_accession', ncbiData);
-		//let bioseqDescr = await getValueByKeyFromObject('Bioseq_descr', ncbiData);
-		//console.log(`Accession: ${accession}`);
-		//console.log(`Bioseq_descr: ${bioseqDescr}`);
-
-		//let accession = await getFromObj('Textseq-id_accession', ncbiData);
-		console.log('\n\n\n');
-
-		//console.log(JSON.stringify(ncbiData['Bioseq-set']))
-
-		let version = await getFromObj('Textseq-id_accession', JSON.stringify(ncbiData));
-		let ncbiObj = {
-			//accession,
-			version
-			//version: await getFromObj('Textseq-id_version', ncbiData)
-		};		
-		return ncbiObj;
+		await searchObject('SubSource', ncbiData);
+		let subSourceArray = searchResult;
+		searchResult = null;
+		let country;
+		let resultObj = {
+			country: ""
+		};
+		for(let i = 0; i < subSourceArray.length; i++){
+			let subSource = subSourceArray[i];
+			if(subSource['SubSource_subtype']['value'] === 'country'){
+				resultObj.country = subSource['SubSource_name'];
+			}
+		}
+		//console.log(resultObj);
+		return resultObj;
 	} catch(error) {
 		return error;
 	}	
 }
 
-async function getValueByKeyFromObject(key, obj){
-	try {
-		if(isObject(obj)){
-			console.log('isObject');
-			// if is object, iterate over keys for match
-			//console.log(Object.keys(obj));
-			for(let i = 0; i < Object.keys(obj).length; i++){
-				//console.log(JSON.stringify(key))
-				//console.log(JSON.stringify(Object.keys(obj)[i]))
-				// of the key matches, return the object
-				if(String(Object.keys(obj)[i]).trim() == String(key).trim()){ 
-					console.log(`Found ${key}`);
-					return obj[Object.keys(obj)[i]]; 
-				} else {
-					return await getValueByKeyFromObject(key, obj[Object.keys(obj)[i]]);
-				}
+async function searchObject(searchKey, obj){
+	if(typeof obj === "object"){
+		objectCount++;
+		//console.log(`Searching Object ${objectCount}`);
+		let objectKeys = Object.keys(obj);
+		for(let i = 0; i < objectKeys.length; i++){
+			let objectKey = objectKeys[i];
+			let result;
+			if(objectKey == searchKey){ 
+				//console.log(`found ${searchKey}`);
+				searchResult = obj[objectKey]; 
 			}
-		} else if(isArray(obj)){
-			console.log('isArray');
-			for(let i = 0; i < obj.length; i++){
-				console.log(obj[i])
-				return await getValueByKeyFromObject(key, obj[i]);
-			}
-		} else {
-			//return null;
+			if(searchResult){ return true; }
+			await searchObject(searchKey, obj[objectKey]);
 		}
-	} catch(error) {
-		return error;
-	}	
-}
-
-// async function getFromObj(key, obj){
-// 	try {
-// 		if(isObject(obj)){
-// 			let objKeys = Object.keys(obj);
-// 			for(let i = 0; i < objKeys.length; i++){
-// 				let objKey = objKeys[i];
-// 				let isMatch = objKey == key;
-// 				let record = obj[objKey];
-// 				console.log(`${key} = ${objKey} ? ${isMatch}`);
-// 				if(isMatch){
-// 					console.log('found');
-// 					return record;
-// 				} else if(isObject(record)){
-// 					//console.log(obj[objKey]);
-// 					await getFromObj(key, obj[objKey]);
-// 				}
-// 			}
-// 		} else if(isArray(obj)){
-// 			for(let i = 0; i < obj.length; i++){
-// 				await getFromObj(key, obj[i]);
-// 			}
-// 		}
-// 	} catch(error) {
-// 		return error;
-// 	}
-// }
-
-
-async function getFromObj(key, objStr){
-	try {
-		let obj = JSON.parse(objStr);
-		console.log(obj.constructor);
-		if(isArray(obj)){
-			console.log('isArray')
-			// for(let i = 0; i < obj.length; i++){
-			// 	console.log(obj[i])
-			// 	await getFromObj(key, obj[i]);	
-			// }
-		} else {
-			for(let i = 0; i < Object.keys(obj).length; i++){
-				//console.log('isObject')
-				//let childObj = obj[Object.keys(obj)[i]];
-				//console.log(Object.keys(obj)[i])
-				//console.log(isObject(obj))
-				// if(key == Object.keys(obj)[i]){
-				// 	console.log('FOUND')
-				// 	return childObj;
-				// }
-				// if(isObject(childObj) && Object.keys(childObj).length > 0){
-				// 	//console.log(childObj);
-				// 	await getFromObj(key, childObj);
-				// }
-			}
-		}
-	} catch(error) {
-		return error;
 	}
-}
-
-
-
-function isArray(a){
-	return (!!a) && (a.constructor === Array);
-}
-
-function isObject(a){
-	return (!!a) && (a.constructor === Object);
 }
