@@ -1,14 +1,18 @@
 {
   "name": "ncbi-fasta",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "ncbi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ncbi-get-location": "./bin/ncbi-get-location.js"
+  },
+  "preferGlobal": true,
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Matthew Stewart",
+  "license": "WTFPL",
   "dependencies": {
     "axios": "^0.18.0",
     "xml2json": "^0.11.2"
